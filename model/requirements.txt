@@ -1,0 +1,10 @@
+mlflow==2.16.0
+numpy==1.26.4
+Pandas==2.1.4
+Matplotlib : 3.8.0
+scikit-learn==1.5.1
+scipy==1.11.4
+pylint==2.15.0
+black==22.6.0
+Werkzeug==2.2.2
+

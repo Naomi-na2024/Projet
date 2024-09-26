@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/LENOVO%20THINKPAD%20T480/Desktop/projet%20MLops/mlruns/989181608852358066/2068710789f842d684cfd2aa2a434a71/artifacts
+end_time: 1727305283043
+entry_point_name: ''
+experiment_id: '989181608852358066'
+lifecycle_stage: active
+run_id: 2068710789f842d684cfd2aa2a434a71
+run_name: Decision_Tree_Model
+run_uuid: 2068710789f842d684cfd2aa2a434a71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727305268512
+status: 3
+tags: []
+user_id: LENOVO THINKPAD T480

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/LENOVO%20THINKPAD%20T480/Desktop/projet%20MLops/mlruns/0/588fd9e29e8e419180f5a99b759bedee/artifacts
+end_time: 1725808846607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 588fd9e29e8e419180f5a99b759bedee
+run_name: bold-shrike-108
+run_uuid: 588fd9e29e8e419180f5a99b759bedee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725808821315
+status: 3
+tags: []
+user_id: LENOVO THINKPAD T480
